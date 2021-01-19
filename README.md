@@ -1,5 +1,8 @@
 # UltiSteel_other_models
  Various models for assembly and upgrade Ulti Steel 3D printer
+
+- UlTi.pdf - подсказка по установке проставок на валы
+
  
 ## **STL Folder:**
 
