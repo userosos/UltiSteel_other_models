@@ -11,6 +11,6 @@
 
 Данная модель является переработкой оригинальной модели UlTi Steel display mount, доступной на [Thingiverse](https://www.thingiverse.com/thing:4617779)
 
-Дисплей доступен для покупки на [Aliexpress](aliexpress.ru/item/1005001270623489.html)
+Дисплей доступен для покупки на [Aliexpress](https://aliexpress.ru/item/1005001270623489.html)
 
 # :warning: Применение данного дисплея подразумевает наличие в вашем принтере Raspberry Pi с интерфейсом дисплея DSI!
